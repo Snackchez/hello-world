@@ -5,6 +5,8 @@ Editing this readme for the first time, on my first branch, going to make my fir
 OOOOoooOhhhhHHHHH man!
 
 Learning: Ruby
-On the docket: HTML, HTML5, CSS, etc.
+On the docket: HTML, HTML5, CSS, more...
 
 Never stop learning.
+
+Here's another line to practice pulls and commits.
